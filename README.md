@@ -1,2 +1,2 @@
 # CS390-CP1 Program Archive
-Repository of all programs I wrote for CS390-CP1, a competitive programming course at Purdue. 
+Repository of all programs I wrote for CS390-CP1, a competitive programming course at Purdue. Problems and solutions included in every program file.
